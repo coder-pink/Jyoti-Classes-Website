@@ -1,0 +1,19 @@
+.footer {
+    text-align: center;
+    padding: 4.2rem;
+    background-color: var(--dark-color);
+    border-top: 1px solid #e7e7e7;
+    color: var(--bg-color);
+    margin-top: 5rem;
+    line-height: 2;
+}
+
+.footer a {
+    margin: 0 0.4rem;
+    text-decoration: none;
+    color: var( --dark-orange);
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
